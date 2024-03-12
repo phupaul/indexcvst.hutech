@@ -1,3 +1,9 @@
 body{
-    color: aquamarine
+    color: aquamarine;
+    text-align: center;
+    background-color: aquamarine;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 };
